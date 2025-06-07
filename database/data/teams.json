@@ -1,0 +1,1388 @@
+ [
+    {
+      "name": "Real Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "overall_rating": 92,
+      "manager_name": "Carlo Ancelotti"
+    },
+    {
+      "name": "FC Barcelona",
+      "league": "La Liga",
+      "country": "Spain",
+      "overall_rating": 89,
+      "manager_name": "Hansi Flick"
+    },
+    {
+      "name": "Atlético Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "overall_rating": 87,
+      "manager_name": "Diego Simeone"
+    },
+    {
+      "name": "Manchester United",
+      "league": "English Premier League",
+      "country": "United Kingdom",
+      "overall_rating": 86,
+      "manager_name": "Erik ten Hag"
+    },
+    {
+      "name": "Liverpool FC",
+      "league": "English Premier League",
+      "country": "United Kingdom",
+      "overall_rating": 90,
+      "manager_name": "Arne Slot"
+    },
+    {
+      "name": "FC Bayern Munich",
+      "league": "Bundesliga",
+      "country": "Germany",
+      "overall_rating": 91,
+      "manager_name": "Vincent Kompany"
+    },
+    {
+      "name": "Borussia Dortmund",
+      "league": "Bundesliga",
+      "country": "Germany",
+      "overall_rating": 86,
+      "manager_name": "Nuri Sahin"
+    },
+    {
+      "name": "Hamburger SV",
+      "league": "2. Bundesliga",
+      "country": "Germany",
+      "overall_rating": 78,
+      "manager_name": "Steffen Baumgart"
+    },
+    {
+      "name": "Juventus FC",
+      "league": "Serie A",
+      "country": "Italy",
+      "overall_rating": 87,
+      "manager_name": "Thiago Motta"
+    },
+    {
+      "name": "AC Milan",
+      "league": "Serie A",
+      "country": "Italy",
+      "overall_rating": 86,
+      "manager_name": "Paulo Fonseca"
+    },
+    {
+      "name": "Inter Milan",
+      "league": "Serie A",
+      "country": "Italy",
+      "overall_rating": 89,
+      "manager_name": "Simone Inzaghi"
+    },
+    {
+      "name": "Paris Saint-Germain",
+      "league": "Ligue 1",
+      "country": "France",
+      "overall_rating": 90,
+      "manager_name": "Luis Enrique"
+    },
+    {
+      "name": "Olympique de Marseille",
+      "league": "Ligue 1",
+      "country": "France",
+      "overall_rating": 83,
+      "manager_name": "Roberto De Zerbi"
+    },
+    {
+      "name": "Olympique Lyonnais",
+      "league": "Ligue 1",
+      "country": "France",
+      "overall_rating": 82,
+      "manager_name": "Pierre Sage"
+    },
+    {
+      "name": "Chelsea FC",
+      "league": "English Premier League",
+      "country": "United Kingdom",
+      "overall_rating": 85,
+      "manager_name": "Enzo Maresca"
+    },
+    {
+      "name": "Arsenal FC",
+      "league": "English Premier League",
+      "country": "United Kingdom",
+      "overall_rating": 89,
+      "manager_name": "Mikel Arteta"
+    },
+    {
+      "name": "Manchester City",
+      "league": "English Premier League",
+      "country": "United Kingdom",
+      "overall_rating": 93,
+      "manager_name": "Pep Guardiola"
+    },
+    {
+      "name": "Tottenham Hotspur",
+      "league": "English Premier League",
+      "country": "United Kingdom",
+      "overall_rating": 86,
+      "manager_name": "Ange Postecoglou"
+    },
+    {
+      "name": "Ajax",
+      "league": "Eredivisie",
+      "country": "Netherlands",
+      "overall_rating": 84,
+      "manager_name": "Francesco Farioli"
+    },
+    {
+      "name": "PSV Eindhoven",
+      "league": "Eredivisie",
+      "country": "Netherlands",
+      "overall_rating": 85,
+      "manager_name": "Peter Bosz"
+    },
+    {
+      "name": "Feyenoord",
+      "league": "Eredivisie",
+      "country": "Netherlands",
+      "overall_rating": 84,
+      "manager_name": "Brian Priske"
+    },
+    {
+      "name": "Benfica",
+      "league": "Primeira Liga",
+      "country": "Portugal",
+      "overall_rating": 85,
+      "manager_name": "Roger Schmidt"
+    },
+    {
+      "name": "FC Porto",
+      "league": "Primeira Liga",
+      "country": "Portugal",
+      "overall_rating": 84,
+      "manager_name": "Vítor Bruno"
+    },
+    {
+      "name": "Sporting CP",
+      "league": "Primeira Liga",
+      "country": "Portugal",
+      "overall_rating": 85,
+      "manager_name": "Rúben Amorim"
+    },
+    {
+      "name": "Flamengo",
+      "league": "Brasileirão Série A",
+      "country": "Brazil",
+      "overall_rating": 84,
+      "manager_name": "Tite"
+    },
+    {
+      "name": "Palmeiras",
+      "league": "Brasileirão Série A",
+      "country": "Brazil",
+      "overall_rating": 84,
+      "manager_name": "Abel Ferreira"
+    },
+    {
+      "name": "Corinthians",
+      "league": "Brasileirão Série A",
+      "country": "Brazil",
+      "overall_rating": 82,
+      "manager_name": "António Oliveira"
+    },
+    {
+      "name": "Boca Juniors",
+      "league": "Argentine Primera División",
+      "country": "Argentina",
+      "overall_rating": 83,
+      "manager_name": "Diego Martínez"
+    },
+    {
+      "name": "River Plate",
+      "league": "Argentine Primera División",
+      "country": "Argentina",
+      "overall_rating": 83,
+      "manager_name": "Martín Demichelis"
+    },
+    {
+      "name": "Independiente",
+      "league": "Argentine Primera División",
+      "country": "Argentina",
+      "overall_rating": 80,
+      "manager_name": "Julio Vaccari"
+    },
+    {
+      "name": "Club América",
+      "league": "Liga MX",
+      "country": "Mexico",
+      "overall_rating": 81,
+      "manager_name": "André Jardine"
+    },
+    {
+      "name": "Guadalajara (Chivas)",
+      "league": "Liga MX",
+      "country": "Mexico",
+      "overall_rating": 80,
+      "manager_name": "Fernando Gago"
+    },
+    {
+      "name": "Cruz Azul",
+      "league": "Liga MX",
+      "country": "Mexico",
+      "overall_rating": 79,
+      "manager_name": "Martín Anselmi"
+    },
+    {
+      "name": "LA Galaxy",
+      "league": "Major League Soccer (MLS)",
+      "country": "United States",
+      "overall_rating": 78,
+      "manager_name": "Greg Vanney"
+    },
+    {
+      "name": "Seattle Sounders FC",
+      "league": "Major League Soccer (MLS)",
+      "country": "United States",
+      "overall_rating": 77,
+      "manager_name": "Brian Schmetzer"
+    },
+    {
+      "name": "Atlanta United FC",
+      "league": "Major League Soccer (MLS)",
+      "country": "United States",
+      "overall_rating": 77,
+      "manager_name": "Gonzalo Pineda"
+    },
+    {
+      "name": "Urawa Red Diamonds",
+      "league": "J League",
+      "country": "Japan",
+      "overall_rating": 79,
+      "manager_name": "Per-Mathias Høgmo"
+    },
+    {
+      "name": "Kawasaki Frontale",
+      "league": "J League",
+      "country": "Japan",
+      "overall_rating": 78,
+      "manager_name": "Toru Oniki"
+    },
+    {
+      "name": "Kashima Antlers",
+      "league": "J League",
+      "country": "Japan",
+      "overall_rating": 78,
+      "manager_name": "Naoki Soma"
+    },
+    {
+      "name": "Jeonbuk Hyundai Motors",
+      "league": "K League 1",
+      "country": "South Korea",
+      "overall_rating": 79,
+      "manager_name": "Dan Petrescu"
+    },
+    {
+      "name": "FC Seoul",
+      "league": "K League 1",
+      "country": "South Korea",
+      "overall_rating": 77,
+      "manager_name": "Kim Gi-dong"
+    },
+    {
+      "name": "Ulsan HD FC",
+      "league": "K League 1",
+      "country": "South Korea",
+      "overall_rating": 78,
+      "manager_name": "Hong Myung-bo"
+    },
+    {
+      "name": "Al-Hilal",
+      "league": "Saudi Pro League",
+      "country": "Saudi Arabia",
+      "overall_rating": 86,
+      "manager_name": "Jorge Jesus"
+    },
+    {
+      "name": "Al-Nassr",
+      "league": "Saudi Pro League",
+      "country": "Saudi Arabia",
+      "overall_rating": 85,
+      "manager_name": "Luís Castro"
+    },
+    {
+      "name": "Al-Ittihad",
+      "league": "Saudi Pro League",
+      "country": "Saudi Arabia",
+      "overall_rating": 83,
+      "manager_name": "Marcelo Gallardo"
+    },
+    {
+      "name": "Anderlecht",
+      "league": "Belgian Pro League",
+      "country": "Belgium",
+      "overall_rating": 79,
+      "manager_name": "Brian Riemer"
+    },
+    {
+      "name": "Club Brugge",
+      "league": "Belgian Pro League",
+      "country": "Belgium",
+      "overall_rating": 80,
+      "manager_name": "Nicky Hayen"
+    },
+    {
+      "name": "Standard Liège",
+      "league": "Belgian Pro League",
+      "country": "Belgium",
+      "overall_rating": 77,
+      "manager_name": "Ivan Leko"
+    },
+    {
+      "name": "Galatasaray",
+      "league": "Süper Lig",
+      "country": "Turkey",
+      "overall_rating": 82,
+      "manager_name": "Okan Buruk"
+    },
+    {
+      "name": "Fenerbahçe",
+      "league": "Süper Lig",
+      "country": "Turkey",
+      "overall_rating": 82,
+      "manager_name": "José Mourinho"
+    },
+    {
+      "name": "Beşiktaş JK",
+      "league": "Süper Lig",
+      "country": "Turkey",
+      "overall_rating": 80,
+      "manager_name": "Giovanni van Bronckhorst"
+    },
+    {
+      "name": "Zenit Saint Petersburg",
+      "league": "Russian Premier League",
+      "country": "Russia",
+      "overall_rating": 81,
+      "manager_name": "Sergei Semak"
+    },
+    {
+      "name": "Spartak Moscow",
+      "league": "Russian Premier League",
+      "country": "Russia",
+      "overall_rating": 79,
+      "manager_name": "Dejan Stanković"
+    },
+    {
+      "name": "CSKA Moscow",
+      "league": "Russian Premier League",
+      "country": "Russia",
+      "overall_rating": 78,
+      "manager_name": "Vladimir Fedotov"
+    },
+    {
+      "name": "FC Copenhagen",
+      "league": "Danish Superliga",
+      "country": "Denmark",
+      "overall_rating": 78,
+      "manager_name": "Jacob Neestrup"
+    },
+    {
+      "name": "Brøndby IF",
+      "league": "Danish Superliga",
+      "country": "Denmark",
+      "overall_rating": 76,
+      "manager_name": "Jesper Sørensen"
+    },
+    {
+      "name": "Midtjylland",
+      "league": "Danish Superliga",
+      "country": "Denmark",
+      "overall_rating": 76,
+      "manager_name": "Thomas Thomasberg"
+    },
+    {
+      "name": "Slavia Prague",
+      "league": "Czech First League",
+      "country": "Czech Republic",
+      "overall_rating": 78,
+      "manager_name": "Jindřich Trpišovský"
+    },
+    {
+      "name": "Sparta Prague",
+      "league": "Czech First League",
+      "country": "Czech Republic",
+      "overall_rating": 77,
+      "manager_name": "Brian Priske"
+    },
+    {
+      "name": "Viktoria Plzeň",
+      "league": "Czech First League",
+      "country": "Czech Republic",
+      "overall_rating": 76,
+      "manager_name": "Miroslav Koubek"
+    },
+    {
+      "name": "Legia Warsaw",
+      "league": "Ekstraklasa",
+      "country": "Poland",
+      "overall_rating": 76,
+      "manager_name": "Gonçalo Feio"
+    },
+    {
+      "name": "Lech Poznań",
+      "league": "Ekstraklasa",
+      "country": "Poland",
+      "overall_rating": 75,
+      "manager_name": "Niels Frederiksen"
+    },
+    {
+      "name": "Raków Częstochowa",
+      "league": "Ekstraklasa",
+      "country": "Poland",
+      "overall_rating": 75,
+      "manager_name": "Marek Papszun"
+    },
+    {
+      "name": "FC Basel",
+      "league": "Swiss Super League",
+      "country": "Switzerland",
+      "overall_rating": 77,
+      "manager_name": "Fabio Celestini"
+    },
+    {
+      "name": "Young Boys",
+      "league": "Swiss Super League",
+      "country": "Switzerland",
+      "overall_rating": 78,
+      "manager_name": "Raphaël Wicky"
+    },
+    {
+      "name": "Grasshopper Club Zürich",
+      "league": "Swiss Super League",
+      "country": "Switzerland",
+      "overall_rating": 74,
+      "manager_name": "Marco Schällibaum"
+    },
+    {
+      "name": "Red Bull Salzburg",
+      "league": "Austrian Bundesliga",
+      "country": "Austria",
+      "overall_rating": 80,
+      "manager_name": "Pepijn Lijnders"
+    },
+    {
+      "name": "Rapid Wien",
+      "league": "Austrian Bundesliga",
+      "country": "Austria",
+      "overall_rating": 76,
+      "manager_name": "Robert Klauß"
+    },
+    {
+      "name": "Austria Wien",
+      "league": "Austrian Bundesliga",
+      "country": "Austria",
+      "overall_rating": 75,
+      "manager_name": "Stephan Helm"
+    },
+    {
+      "name": "Dinamo Zagreb",
+      "league": "HNL",
+      "country": "Croatia",
+      "overall_rating": 79,
+      "manager_name": "Sergej Jakirović"
+    },
+    {
+      "name": "Hajduk Split",
+      "league": "HNL",
+      "country": "Croatia",
+      "overall_rating": 77,
+      "manager_name": "Ivan Leko"
+    },
+    {
+      "name": "Rijeka",
+      "league": "HNL",
+      "country": "Croatia",
+      "overall_rating": 76,
+      "manager_name": "Željko Sopić"
+    },
+    {
+      "name": "Rosenborg BK",
+      "league": "Eliteserien",
+      "country": "Norway",
+      "overall_rating": 75,
+      "manager_name": "Alfred Johansson"
+    },
+    {
+      "name": "Molde FK",
+      "league": "Eliteserien",
+      "country": "Norway",
+      "overall_rating": 75,
+      "manager_name": "Erling Moe"
+    },
+    {
+      "name": "Bodø/Glimt",
+      "league": "Eliteserien",
+      "country": "Norway",
+      "overall_rating": 76,
+      "manager_name": "Kjetil Knutsen"
+    },
+    {
+      "name": "Malmö FF",
+      "league": "Allsvenskan",
+      "country": "Sweden",
+      "overall_rating": 76,
+      "manager_name": "Henrik Rydström"
+    },
+    {
+      "name": "AIK Fotboll",
+      "league": "Allsvenskan",
+      "country": "Sweden",
+      "overall_rating": 74,
+      "manager_name": "Henning Berg"
+    },
+    {
+      "name": "Djurgårdens IF",
+      "league": "Allsvenskan",
+      "country": "Sweden",
+      "overall_rating": 74,
+      "manager_name": "Kim Bergstrand & Thomas Lagerlöf"
+    },
+    {
+      "name": "APOEL FC",
+      "league": "Cypriot First Division",
+      "country": "Cyprus",
+      "overall_rating": 72,
+      "manager_name": "Ricardo Sá Pinto"
+    },
+    {
+      "name": "Omonia Nicosia",
+      "league": "Cypriot First Division",
+      "country": "Cyprus",
+      "overall_rating": 71,
+      "manager_name": "Valdas Dambrauskas"
+    },
+    {
+      "name": "Anorthosis Famagusta",
+      "league": "Cypriot First Division",
+      "country": "Cyprus",
+      "overall_rating": 70,
+      "manager_name": "David Cannings (interim)"
+    },
+    {
+      "name": "Atlético Nacional",
+      "league": "Categoría Primera A",
+      "country": "Colombia",
+      "overall_rating": 77,
+      "manager_name": "Pablo Repetto"
+    },
+    {
+      "name": "Millonarios FC",
+      "league": "Categoría Primera A",
+      "country": "Colombia",
+      "overall_rating": 76,
+      "manager_name": "Alberto Gamero"
+    },
+    {
+      "name": "América de Cali",
+      "league": "Categoría Primera A",
+      "country": "Colombia",
+      "overall_rating": 75,
+      "manager_name": "Jorge 'Polilla' Da Silva"
+    },
+    {
+      "name": "Olympiacos FC",
+      "league": "Super League Greece 1",
+      "country": "Greece",
+      "overall_rating": 79,
+      "manager_name": "José Luis Mendilibar"
+    },
+    {
+      "name": "Panathinaikos FC",
+      "league": "Super League Greece 1",
+      "country": "Greece",
+      "overall_rating": 78,
+      "manager_name": "Diego Alonso"
+    },
+    {
+      "name": "PAOK FC",
+      "league": "Super League Greece 1",
+      "country": "Greece",
+      "overall_rating": 78,
+      "manager_name": "Răzvan Lucescu"
+    },
+    {
+      "name": "Club Nacional de Football",
+      "league": "Uruguayan Primera División",
+      "country": "Uruguay",
+      "overall_rating": 77,
+      "manager_name": "Álvaro Recoba"
+    },
+    {
+      "name": "Peñarol",
+      "league": "Uruguayan Primera División",
+      "country": "Uruguay",
+      "overall_rating": 77,
+      "manager_name": "Diego Aguirre"
+    },
+    {
+      "name": "Defensor Sporting",
+      "league": "Uruguayan Primera División",
+      "country": "Uruguay",
+      "overall_rating": 74,
+      "manager_name": "Martín Varini"
+    },
+    {
+      "name": "Olimpia Asunción",
+      "league": "Paraguayan División Profesional",
+      "country": "Paraguay",
+      "overall_rating": 76,
+      "manager_name": "Martín Palermo"
+    },
+    {
+      "name": "Cerro Porteño",
+      "league": "Paraguayan División Profesional",
+      "country": "Paraguay",
+      "overall_rating": 75,
+      "manager_name": "Manolo Jiménez"
+    },
+    {
+      "name": "Guaraní",
+      "league": "Paraguayan División Profesional",
+      "country": "Paraguay",
+      "overall_rating": 74,
+      "manager_name": "Francisco Arce"
+    },
+    {
+      "name": "FCSB (Steaua București)",
+      "league": "SuperLiga",
+      "country": "Romania",
+      "overall_rating": 75,
+      "manager_name": "Elias Charalambous"
+    },
+    {
+      "name": "Dinamo București",
+      "league": "SuperLiga",
+      "country": "Romania",
+      "overall_rating": 72,
+      "manager_name": "Željko Kopić"
+    },
+    {
+      "name": "CFR Cluj",
+      "league": "SuperLiga",
+      "country": "Romania",
+      "overall_rating": 74,
+      "manager_name": "Dan Petrescu"
+    },
+    {
+      "name": "Ferencvárosi TC",
+      "league": "Nemzeti Bajnokság I (NB I)",
+      "country": "Hungary",
+      "overall_rating": 76,
+      "manager_name": "Pascal Jansen"
+    },
+    {
+      "name": "Újpest FC",
+      "league": "Nemzeti Bajnokság I (NB I)",
+      "country": "Hungary",
+      "overall_rating": 71,
+      "manager_name": "Mészöly Géza"
+    },
+    {
+      "name": "Debreceni VSC",
+      "league": "Nemzeti Bajnokság I (NB I)",
+      "country": "Hungary",
+      "overall_rating": 70,
+      "manager_name": "Srdjan Blagojevic"
+    },
+    {
+      "name": "Colo-Colo",
+      "league": "Chilean Primera División",
+      "country": "Chile",
+      "overall_rating": 77,
+      "manager_name": "Jorge Almirón"
+    },
+    {
+      "name": "Universidad de Chile",
+      "league": "Chilean Primera División",
+      "country": "Chile",
+      "overall_rating": 76,
+      "manager_name": "Gustavo Álvarez"
+    },
+    {
+      "name": "Universidad Católica",
+      "league": "Chilean Primera División",
+      "country": "Chile",
+      "overall_rating": 75,
+      "manager_name": "Tiago Nunes"
+    },
+    {
+      "name": "Maccabi Tel Aviv FC",
+      "league": "Ligat HaAl",
+      "country": "Israel",
+      "overall_rating": 76,
+      "manager_name": "Robbie Keane"
+    },
+    {
+      "name": "Maccabi Haifa FC",
+      "league": "Ligat HaAl",
+      "country": "Israel",
+      "overall_rating": 75,
+      "manager_name": "Messay Dego"
+    },
+    {
+      "name": "Hapoel Be'er Sheva FC",
+      "league": "Ligat HaAl",
+      "country": "Israel",
+      "overall_rating": 74,
+      "manager_name": "Elyaniv Barda"
+    },
+    {
+      "name": "LDU Quito",
+      "league": "Ecuadorian Serie A",
+      "country": "Ecuador",
+      "overall_rating": 76,
+      "manager_name": "Josep Alcácer"
+    },
+    {
+      "name": "Barcelona SC",
+      "league": "Ecuadorian Serie A",
+      "country": "Ecuador",
+      "overall_rating": 75,
+      "manager_name": "Diego López"
+    },
+    {
+      "name": "CS Emelec",
+      "league": "Ecuadorian Serie A",
+      "country": "Ecuador",
+      "overall_rating": 74,
+      "manager_name": "Hernán Torres"
+    },
+    {
+      "name": "JS Kabylie",
+      "league": "Algerian Ligue Professionnelle 1",
+      "country": "Algeria",
+      "overall_rating": 70,
+      "manager_name": "Azzedine Aït Djoudi"
+    },
+    {
+      "name": "MC Alger",
+      "league": "Algerian Ligue Professionnelle 1",
+      "country": "Algeria",
+      "overall_rating": 70,
+      "manager_name": "Patrice Beaumelle"
+    },
+    {
+      "name": "CR Belouizdad",
+      "league": "Algerian Ligue Professionnelle 1",
+      "country": "Algeria",
+      "overall_rating": 71,
+      "manager_name": "Marcos Paquetá"
+    },
+    {
+      "name": "Celtic FC",
+      "league": "Scottish Premiership",
+      "country": "United Kingdom",
+      "overall_rating": 81,
+      "manager_name": "Brendan Rodgers"
+    },
+    {
+      "name": "Rangers FC",
+      "league": "Scottish Premiership",
+      "country": "United Kingdom",
+      "overall_rating": 79,
+      "manager_name": "Philippe Clement"
+    },
+    {
+      "name": "Heart of Midlothian",
+      "league": "Scottish Premiership",
+      "country": "United Kingdom",
+      "overall_rating": 73,
+      "manager_name": "Steven Naismith"
+    },
+    {
+      "name": "Wydad AC",
+      "league": "Botola Pro",
+      "country": "Morocco",
+      "overall_rating": 76,
+      "manager_name": "Aziz Ben Souda (interim)"
+    },
+    {
+      "name": "Raja CA",
+      "league": "Botola Pro",
+      "country": "Morocco",
+      "overall_rating": 76,
+      "manager_name": "Josef Zinnbauer"
+    },
+    {
+      "name": "RS Berkane",
+      "league": "Botola Pro",
+      "country": "Morocco",
+      "overall_rating": 74,
+      "manager_name": "Mouine Chaâbani"
+    },
+    {
+      "name": "NK Maribor",
+      "league": "Slovenian PrvaLiga",
+      "country": "Slovenia",
+      "overall_rating": 72,
+      "manager_name": "Ante Šimundža"
+    },
+    {
+      "name": "Olimpija Ljubljana",
+      "league": "Slovenian PrvaLiga",
+      "country": "Slovenia",
+      "overall_rating": 72,
+      "manager_name": "Zoran Zeljković"
+    },
+    {
+      "name": "NK Domžale",
+      "league": "Slovenian PrvaLiga",
+      "country": "Slovenia",
+      "overall_rating": 69,
+      "manager_name": "Simon Rožman"
+    },
+    {
+      "name": "Slovan Bratislava",
+      "league": "Slovak First League",
+      "country": "Slovakia",
+      "overall_rating": 74,
+      "manager_name": "Vladimír Weiss"
+    },
+    {
+      "name": "FC Spartak Trnava",
+      "league": "Slovak First League",
+      "country": "Slovakia",
+      "overall_rating": 70,
+      "manager_name": "Michal Gašparík"
+    },
+    {
+      "name": "MŠK Žilina",
+      "league": "Slovak First League",
+      "country": "Slovakia",
+      "overall_rating": 70,
+      "manager_name": "Jaroslav Hynek"
+    },
+    {
+      "name": "Al Ahly SC",
+      "league": "Egyptian Premier League",
+      "country": "Egypt",
+      "overall_rating": 80,
+      "manager_name": "Marcel Koller"
+    },
+    {
+      "name": "Zamalek SC",
+      "league": "Egyptian Premier League",
+      "country": "Egypt",
+      "overall_rating": 78,
+      "manager_name": "José Gomes"
+    },
+    {
+      "name": "Pyramids FC",
+      "league": "Egyptian Premier League",
+      "country": "Egypt",
+      "overall_rating": 77,
+      "manager_name": "Jaime Pacheco"
+    },
+    {
+      "name": "Club Bolívar",
+      "league": "Bolivian Primera División",
+      "country": "Bolivia",
+      "overall_rating": 74,
+      "manager_name": "Flavio Robatto"
+    },
+    {
+      "name": "The Strongest",
+      "league": "Bolivian Primera División",
+      "country": "Bolivia",
+      "overall_rating": 73,
+      "manager_name": "Ismael Rescalvo"
+    },
+    {
+      "name": "Jorge Wilstermann",
+      "league": "Bolivian Primera División",
+      "country": "Bolivia",
+      "overall_rating": 71,
+      "manager_name": "Cristian Díaz"
+    },
+    {
+      "name": "Deportivo Saprissa",
+      "league": "Costa Rican Primera División",
+      "country": "Costa Rica",
+      "overall_rating": 75,
+      "manager_name": "Vladimir Quesada"
+    },
+    {
+      "name": "LD Alajuelense",
+      "league": "Costa Rican Primera División",
+      "country": "Costa Rica",
+      "overall_rating": 74,
+      "manager_name": "Alexandre Guimarães"
+    },
+    {
+      "name": "CS Herediano",
+      "league": "Costa Rican Primera División",
+      "country": "Costa Rica",
+      "overall_rating": 73,
+      "manager_name": "Walter Centeno"
+    },
+    {
+      "name": "Dynamo Kyiv",
+      "league": "Ukrainian Premier League",
+      "country": "Ukraine",
+      "overall_rating": 78,
+      "manager_name": "Oleksandr Shovkovskyi"
+    },
+    {
+      "name": "Shakhtar Donetsk",
+      "league": "Ukrainian Premier League",
+      "country": "Ukraine",
+      "overall_rating": 79,
+      "manager_name": "Marino Pušić"
+    },
+    {
+      "name": "Dnipro-1",
+      "league": "Ukrainian Premier League",
+      "country": "Ukraine",
+      "overall_rating": 74,
+      "manager_name": "Valeriy Horodov (caretaker)"
+    },
+    {
+      "name": "Sydney FC",
+      "league": "A-League Men",
+      "country": "Australia",
+      "overall_rating": 73,
+      "manager_name": "Ufuk Talay"
+    },
+    {
+      "name": "Melbourne Victory",
+      "league": "A-League Men",
+      "country": "Australia",
+      "overall_rating": 72,
+      "manager_name": "Tony Popovic"
+    },
+    {
+      "name": "Melbourne City FC",
+      "league": "A-League Men",
+      "country": "Australia",
+      "overall_rating": 73,
+      "manager_name": "Aurelio Vidmar"
+    },
+    {
+      "name": "Qarabağ FK",
+      "league": "Azerbaijan Premier League",
+      "country": "Azerbaijan",
+      "overall_rating": 75,
+      "manager_name": "Gurban Gurbanov"
+    },
+    {
+      "name": "Neftçi Baku PFK",
+      "league": "Azerbaijan Premier League",
+      "country": "Azerbaijan",
+      "overall_rating": 70,
+      "manager_name": "Adrian Mutu"
+    },
+    {
+      "name": "Gabala FK",
+      "league": "Azerbaijan Premier League",
+      "country": "Azerbaijan",
+      "overall_rating": 69,
+      "manager_name": "Elmar Bakhshiyev"
+    },
+    {
+      "name": "Esteghlal FC",
+      "league": "Persian Gulf Pro League",
+      "country": "Iran",
+      "overall_rating": 76,
+      "manager_name": "Javad Nekounam"
+    },
+    {
+      "name": "Persepolis FC",
+      "league": "Persian Gulf Pro League",
+      "country": "Iran",
+      "overall_rating": 76,
+      "manager_name": "Osmar Loss"
+    },
+    {
+      "name": "Sepahan SC",
+      "league": "Persian Gulf Pro League",
+      "country": "Iran",
+      "overall_rating": 74,
+      "manager_name": "José Morais"
+    },
+    {
+      "name": "CD Olimpia",
+      "league": "Liga Nacional de Fútbol Profesional de Honduras",
+      "country": "Honduras",
+      "overall_rating": 73,
+      "manager_name": "Pedro Troglio"
+    },
+    {
+      "name": "CD Motagua",
+      "league": "Liga Nacional de Fútbol Profesional de Honduras",
+      "country": "Honduras",
+      "overall_rating": 72,
+      "manager_name": "Diego Vázquez"
+    },
+    {
+      "name": "Real España",
+      "league": "Liga Nacional de Fútbol Profesional de Honduras",
+      "country": "Honduras",
+      "overall_rating": 70,
+      "manager_name": "Miguel Falero"
+    },
+    {
+      "name": "PFC Ludogorets Razgrad",
+      "league": "Bulgarian First Professional League",
+      "country": "Bulgaria",
+      "overall_rating": 75,
+      "manager_name": "Georgi Dermendzhiev"
+    },
+    {
+      "name": "CSKA Sofia",
+      "league": "Bulgarian First Professional League",
+      "country": "Bulgaria",
+      "overall_rating": 73,
+      "manager_name": "Stamen Belchev"
+    },
+    {
+      "name": "Levski Sofia",
+      "league": "Bulgarian First Professional League",
+      "country": "Bulgaria",
+      "overall_rating": 72,
+      "manager_name": "Nikolay Kostov"
+    },
+    {
+      "name": "Mamelodi Sundowns FC",
+      "league": "South African Premiership (PSL)",
+      "country": "South Africa",
+      "overall_rating": 76,
+      "manager_name": "Rulani Mokwena"
+    },
+    {
+      "name": "Kaizer Chiefs",
+      "league": "South African Premiership (PSL)",
+      "country": "South Africa",
+      "overall_rating": 74,
+      "manager_name": "Cavin Johnson (interim)"
+    },
+    {
+      "name": "Orlando Pirates",
+      "league": "South African Premiership (PSL)",
+      "country": "South Africa",
+      "overall_rating": 74,
+      "manager_name": "Jose Riveiro"
+    },
+    {
+      "name": "Sporting Cristal",
+      "league": "Peruvian Primera División",
+      "country": "Peru",
+      "overall_rating": 74,
+      "manager_name": "Enderson Moreira"
+    },
+    {
+      "name": "Club Universitario de Deportes",
+      "league": "Peruvian Primera División",
+      "country": "Peru",
+      "overall_rating": 73,
+      "manager_name": "Fabián Bustos"
+    },
+    {
+      "name": "Alianza Lima",
+      "league": "Peruvian Primera División",
+      "country": "Peru",
+      "overall_rating": 73,
+      "manager_name": "Alejandro Restrepo"
+    },
+    {
+      "name": "Al Ain FC",
+      "league": "UAE Pro League",
+      "country": "United Arab Emirates",
+      "overall_rating": 74,
+      "manager_name": "Hernán Crespo"
+    },
+    {
+      "name": "Shabab Al-Ahli",
+      "league": "UAE Pro League",
+      "country": "United Arab Emirates",
+      "overall_rating": 73,
+      "manager_name": "Marko Nikolić"
+    },
+    {
+      "name": "Al Jazira Club",
+      "league": "UAE Pro League",
+      "country": "United Arab Emirates",
+      "overall_rating": 72,
+      "manager_name": "Frank de Boer"
+    },
+    {
+      "name": "Espérance de Tunis",
+      "league": "Tunisian Ligue Professionnelle 1",
+      "country": "Tunisia",
+      "overall_rating": 75,
+      "manager_name": "Miguel Cardoso"
+    },
+    {
+      "name": "Club Africain",
+      "league": "Tunisian Ligue Professionnelle 1",
+      "country": "Tunisia",
+      "overall_rating": 73,
+      "manager_name": "Faouzi Benzarti"
+    },
+    {
+      "name": "Étoile du Sahel",
+      "league": "Tunisian Ligue Professionnelle 1",
+      "country": "Tunisia",
+      "overall_rating": 73,
+      "manager_name": "Imed Ben Younes"
+    },
+    {
+      "name": "Red Star Belgrade",
+      "league": "Serbian SuperLiga",
+      "country": "Serbia",
+      "overall_rating": 77,
+      "manager_name": "Vladan Milojević"
+    },
+    {
+      "name": "Partizan Belgrade",
+      "league": "Serbian SuperLiga",
+      "country": "Serbia",
+      "overall_rating": 75,
+      "manager_name": "Igor Duljaj"
+    },
+    {
+      "name": "FK Vojvodina",
+      "league": "Serbian SuperLiga",
+      "country": "Serbia",
+      "overall_rating": 72,
+      "manager_name": "Božidar Bandović"
+    },
+    {
+      "name": "HŠK Zrinjski Mostar",
+      "league": "Premier League of Bosnia and Herzegovina",
+      "country": "Bosnia and Herzegovina",
+      "overall_rating": 70,
+      "manager_name": "Krunoslav Rendulić"
+    },
+    {
+      "name": "FK Sarajevo",
+      "league": "Premier League of Bosnia and Herzegovina",
+      "country": "Bosnia and Herzegovina",
+      "overall_rating": 69,
+      "manager_name": "Simon Rožman"
+    },
+    {
+      "name": "FK Borac Banja Luka",
+      "league": "Premier League of Bosnia and Herzegovina",
+      "country": "Bosnia and Herzegovina",
+      "overall_rating": 69,
+      "manager_name": "Vinko Marinović"
+    },
+    {
+      "name": "Guangzhou FC",
+      "league": "Chinese Super League",
+      "country": "China",
+      "overall_rating": 70,
+      "manager_name": "Jianjun Wang"
+    },
+    {
+      "name": "Shandong Taishan FC",
+      "league": "Chinese Super League",
+      "country": "China",
+      "overall_rating": 73,
+      "manager_name": "Gang Hao"
+    },
+    {
+      "name": "Shanghai Port FC",
+      "league": "Chinese Super League",
+      "country": "China",
+      "overall_rating": 74,
+      "manager_name": "Kevin Muscat"
+    },
+    {
+      "name": "FC Dinamo Tbilisi",
+      "league": "Erovnuli Liga",
+      "country": "Georgia",
+      "overall_rating": 69,
+      "manager_name": "Giorgi Tchiabrishvili"
+    },
+    {
+      "name": "FC Samtredia",
+      "league": "Erovnuli Liga",
+      "country": "Georgia",
+      "overall_rating": 65,
+      "manager_name": "Giorgi Daraselia"
+    },
+    {
+      "name": "FC Torpedo Kutaisi",
+      "league": "Erovnuli Liga",
+      "country": "Georgia",
+      "overall_rating": 68,
+      "manager_name": "Kakhaber Chkhetiani"
+    },
+    {
+      "name": "HJK Helsinki",
+      "league": "Veikkausliiga",
+      "country": "Finland",
+      "overall_rating": 70,
+      "manager_name": "Toni Korkeakunnas"
+    },
+    {
+      "name": "KuPS",
+      "league": "Veikkausliiga",
+      "country": "Finland",
+      "overall_rating": 69,
+      "manager_name": "Jani Honkavaara"
+    },
+    {
+      "name": "Inter Turku",
+      "league": "Veikkausliiga",
+      "country": "Finland",
+      "overall_rating": 68,
+      "manager_name": "Vesa Vasara"
+    },
+    {
+      "name": "Caracas FC",
+      "league": "Venezuelan Primera División",
+      "country": "Venezuela",
+      "overall_rating": 70,
+      "manager_name": "Henry Meléndez"
+    },
+    {
+      "name": "Deportivo Táchira",
+      "league": "Venezuelan Primera División",
+      "country": "Venezuela",
+      "overall_rating": 70,
+      "manager_name": "Eduardo Saragó"
+    },
+    {
+      "name": "Zamora FC",
+      "league": "Venezuelan Primera División",
+      "country": "Venezuela",
+      "overall_rating": 68,
+      "manager_name": "Francisco Castillejo"
+    },
+    {
+      "name": "Al-Sadd SC",
+      "league": "Qatar Stars League",
+      "country": "Qatar",
+      "overall_rating": 76,
+      "manager_name": "Wes Brown (caretaker)"
+    },
+    {
+      "name": "Al-Duhail SC",
+      "league": "Qatar Stars League",
+      "country": "Qatar",
+      "overall_rating": 75,
+      "manager_name": "Christophe Galtier"
+    },
+    {
+      "name": "Al-Rayyan SC",
+      "league": "Qatar Stars League",
+      "country": "Qatar",
+      "overall_rating": 73,
+      "manager_name": "Leonardo Jardim"
+    },
+    {
+      "name": "Riga FC",
+      "league": "Virsliga",
+      "country": "Latvia",
+      "overall_rating": 68,
+      "manager_name": "Tomislav Stipić"
+    },
+    {
+      "name": "RFS",
+      "league": "Virsliga",
+      "country": "Latvia",
+      "overall_rating": 68,
+      "manager_name": "Viktors Morozs"
+    },
+    {
+      "name": "Valmiera FC",
+      "league": "Virsliga",
+      "country": "Latvia",
+      "overall_rating": 67,
+      "manager_name": "Jurgis Pučinskis"
+    },
+    {
+      "name": "Forge FC",
+      "league": "Canadian Premier League",
+      "country": "Canada",
+      "overall_rating": 69,
+      "manager_name": "Bobby Smyrniotis"
+    },
+    {
+      "name": "Cavalry FC",
+      "league": "Canadian Premier League",
+      "country": "Canada",
+      "overall_rating": 68,
+      "manager_name": "Tommy Wheeldon Jr."
+    },
+    {
+      "name": "Toronto FC",
+      "league": "Major League Soccer (MLS)",
+      "country": "Canada",
+      "overall_rating": 76,
+      "manager_name": "John Herdman"
+    },
+    {
+      "name": "Mohun Bagan Super Giant",
+      "league": "Indian Super League",
+      "country": "India",
+      "overall_rating": 70,
+      "manager_name": "Antonio López Habas"
+    },
+    {
+      "name": "Mumbai City FC",
+      "league": "Indian Super League",
+      "country": "India",
+      "overall_rating": 69,
+      "manager_name": "Petr Kratky"
+    },
+    {
+      "name": "Bengaluru FC",
+      "league": "Indian Super League",
+      "country": "India",
+      "overall_rating": 68,
+      "manager_name": "Gerard Zaragoza"
+    },
+    {
+      "name": "Shamrock Rovers",
+      "league": "League of Ireland Premier Division",
+      "country": "United Kingdom",
+      "overall_rating": 68,
+      "manager_name": "Stephen Bradley"
+    },
+    {
+      "name": "Dundalk FC",
+      "league": "League of Ireland Premier Division",
+      "country": "United Kingdom",
+      "overall_rating": 66,
+      "manager_name": "Jon Daly"
+    },
+    {
+      "name": "Bohemians FC",
+      "league": "League of Ireland Premier Division",
+      "country": "United Kingdom",
+      "overall_rating": 65,
+      "manager_name": "Alan Reynolds"
+    },
+    {
+      "name": "The New Saints FC",
+      "league": "Cymru Premier",
+      "country": "United Kingdom",
+      "overall_rating": 65,
+      "manager_name": "Craig Harrison"
+    },
+    {
+      "name": "Connah's Quay Nomads FC",
+      "league": "Cymru Premier",
+      "country": "United Kingdom",
+      "overall_rating": 63,
+      "manager_name": "Neil Gibson"
+    },
+    {
+      "name": "Cardiff City FC",
+      "league": "English Championship",
+      "country": "United Kingdom",
+      "overall_rating": 74,
+      "manager_name": "Erol Bulut"
+    }
+  ]
