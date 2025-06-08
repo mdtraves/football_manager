@@ -7,7 +7,6 @@ use Illuminate\Database\Eloquent\Model;
 class Team extends Model
 {
 
-
     protected $fillable = [
         'name',
         'country_id',
@@ -23,6 +22,11 @@ class Team extends Model
     public function country()
     {
         return $this->belongsTo(Country::class);
+    }
+
+    public function players()
+    {
+        return $this->hasMany(Player::class);
     }
 
 }

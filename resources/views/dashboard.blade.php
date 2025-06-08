@@ -16,15 +16,11 @@
                 <div class="p-6 text-gray-900">
                     <h2>These are the teams:</h2>
                     <div class="flex flex-col">
-                        @foreach ($teams->filter()->groupBy(function($team) {
-                            return $team->league->id ?? null;
-                        })->sortByDesc(function($teamsInLeague) {
-                            return $teamsInLeague->max('overall_rating');
-                        }) as $leagueId => $teamsInLeague)
+                        @foreach ($teams->groupBy('league.id') as $leagueId => $teamsInLeague)
                             <h3 class="text-xl">{{ $teamsInLeague->first()->league->name }}</h3>
-                            <ul class="mb-4">
+                            <ul class="mb-4 grid">
                                 @foreach ($teamsInLeague as $team)
-                                    <li class="{{ $team->overall_rating > 90 ? "text-red-800" : "" }}" >{{ $team->name }} rating: {{ $team->overall_rating  }}</li>
+                                    <a href="/teams/{{ $team->id }}" class="{{ $team->overall_rating > 90 ? "text-red-400" : "" }}" >{{ $team->name }} rating: {{ $team->overall_rating  }}</a>
                                 @endforeach
                             </ul>
                         @endforeach
