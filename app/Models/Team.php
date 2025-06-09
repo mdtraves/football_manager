@@ -11,7 +11,6 @@ class Team extends Model
         'name',
         'country_id',
         'league_id',
-        'manager_name',
         'overall_rating',
     ];
     public function league()
@@ -27,6 +26,11 @@ class Team extends Model
     public function players()
     {
         return $this->hasMany(Player::class);
+    }
+
+     public function manager()
+    {
+        return $this->hasOne(Manager::class);
     }
 
 }

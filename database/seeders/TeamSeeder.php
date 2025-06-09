@@ -38,7 +38,6 @@ class TeamSeeder extends Seeder
 
             Team::firstOrCreate([
                 'name' => $team['name'],
-                'manager_name' => $team['manager_name'],
                 'overall_rating' => $team['overall_rating'],
                 'country_id' => $countryID,
                 'league_id' => $leagueID,
