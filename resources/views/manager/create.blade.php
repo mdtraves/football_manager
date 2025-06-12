@@ -1,6 +1,6 @@
 <x-app-layout>
 <div>
-    Create a new Manager:
+    Create Your Manager Profile:
 
    <div class="py-12">
         <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">

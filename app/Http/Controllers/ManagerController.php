@@ -31,7 +31,7 @@ class ManagerController extends Controller
             'first_name' => 'required|string|max:255',
             'middle_names' => 'nullable|string|max:255',
             'sur_name' => 'required|string|max:255',
-            'date_of_birth' => 'required|date',
+            'date_of_birth' => 'required|date|before_or_equal:' . now()->subYears(18)->format('Y-m-d'),
             'height' => 'required|integer',
             'weight' => 'required|integer',
             'country_id' => 'required|exists:countries,id',
@@ -49,7 +49,7 @@ class ManagerController extends Controller
             'contract_end_date' => now()->addYears(3)->format('Y-m-d')
         ]);
 
-        return redirect()->route('manager.show')->with('info' ,'You are now a manager');
+        return redirect()->route('manager.show')->with('success' ,'You are now a manager!');
     }
 
     public function show()

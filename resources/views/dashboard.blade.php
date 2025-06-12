@@ -3,6 +3,7 @@
         <h2 class="font-semibold text-xl text-gray-800 leading-tight">
             {{ __('Dashboard') }}
         </h2>
+        @section('title', 'My Club Dashboard - Footy Manager')
     </x-slot>
 
     <div class="py-12">
